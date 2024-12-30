@@ -1,0 +1,66 @@
+id,name,age,gender,diagnosis,admission_date,treatment_status,doctor
+1,John Doe,32,Male,Diabetes,01-12-2024,Under Treatment,Dr. Smith
+2,Jane Smith,28,Female,Asthma,05-12-2024,Discharged,Dr. Adams
+3,Samuel Green,45,Male,Hypertension,25-11-2024,Under Treatment,Dr. Lee
+4,Emily White,37,Female,Fractured Arm,10-12-2024,Under Treatment,Dr. Carter
+5,Michael Brown,60,Male,Heart Disease,01-12-2024,Discharged,Dr. Williams
+6,Sophia Black,52,Female,Pneumonia,20-11-2024,Under Treatment,Dr. Patel
+7,Chris Martin,30,Male,Flu,08-12-2024,Under Treatment,Dr. Johnson
+8,Linda Taylor,29,Female,COVID-19,05-12-2024,Discharged,Dr. Allen
+9,Robert King,40,Male,Back Pain,30-11-2024,Under Treatment,Dr. Davis
+10,Mary Clark,55,Female,Cold,01-12-2024,Under Treatment,Dr. Watson
+11,David Lee,34,Male,Diabetes,02-12-2024,Under Treatment,Dr. Turner
+12,,41,Female,Stroke,,Death,Dr. Williams
+13,George White,,Male,Malaria,05-12-2024,Under Treatment,Dr. Black
+14,Lisa Green,33,Female,Flu,01-12-2024,Discharged,Dr. Allen
+15,Mark Wilson,50,Male,Cold,02-12-2024,Under Treatment,Dr. Carter
+16,Rachel Adams,29,Female,Pneumonia,06-12-2024,Under Treatment,Dr. Lee
+17,John Martin,43,Male,Asthma,04-12-2024,Death,
+18,Maria Gonzalez,25,Female,Heart Disease,28-11-2024,Under Treatment,Dr. Watson
+19,Nina Roberts,32,Female,Hypertension,03-12-2024,Under Treatment,Dr. Carter
+20,Paul Walker,38,Male,Back Pain,07-12-2024,Under Treatment,Dr. Davis
+21,Liam Johnson,26,Male,Flu,01-12-2024,Under Treatment,Dr. Allen
+22,Isabella Turner,50,Female,Diabetes,10-12-2024,Discharged,Dr. Patel
+23,Matthew Moore,60,Male,Stroke,04-12-2024,Under Treatment,Dr. Smith
+24,Lily Lee,34,Female,COVID-19,06-12-2024,Discharged,Dr. Brown
+25,Daniel Thomas,40,Male,Flu,02-12-2024,Under Treatment,Dr. Williams
+26,Grace Jackson,30,Female,Heart Disease,01-12-2024,Under Treatment,Dr. Lee
+27,Jack Harris,55,Male,Diabetes,08-12-2024,Under Treatment,Dr. Patel
+28,Olivia King,42,Female,Stroke,29-11-2024,Death,Dr. Carter
+29,James Clark,60,Male,Cold,10-12-2024,Under Treatment,Dr. Davis
+30,Charlotte Lewis,35,Female,Asthma,03-12-2024,Under Treatment,Dr. Gupta
+31,Aiden Scott,29,Male,Back Pain,02-12-2024,Discharged,Dr. Turner
+32,Emma Davis,33,Female,Pneumonia,01-12-2024,Under Treatment,Dr. Williams
+33,William Allen,26,Male,Hypertension,09-12-2024,Under Treatment,Dr. Johnson
+34,Layla White,41,Female,Flu,07-12-2024,Discharged,Dr. Allen
+35,Oliver Young,31,Male,Heart Disease,02-12-2024,Under Treatment,Dr. Brown
+36,Chloe Hill,38,Female,COVID-19,04-12-2024,Discharged,Dr. Allen
+37,Benjamin Scott,30,Male,Stroke,06-12-2024,Death,
+38,Scarlett Carter,27,Female,Asthma,01-12-2024,Under Treatment,Dr. Gupta
+39,Henry Adams,60,Male,Diabetes,05-12-2024,Under Treatment,Dr. Smith
+40,Harper Young,32,Female,Back Pain,01-12-2024,Under Treatment,Dr. Johnson
+41,Leo Perez,34,Male,Cold,02-12-2024,Under Treatment,Dr. Black
+42,Amelia Moore,29,Female,Flu,10-12-2024,Discharged,Dr. Brown
+43,Isaac Wilson,48,Male,Heart Disease,03-12-2024,Under Treatment,Dr. Patel
+44,Maya Taylor,33,Female,Hypertension,08-12-2024,Under Treatment,Dr. Lee
+45,Lucas Green,55,Male,Stroke,01-12-2024,Death,Dr. Williams
+46,Victoria Harris,39,Female,COVID-19,04-12-2024,Under Treatment,Dr. Allen
+47,Daniel Martin,25,Male,Flu,07-12-2024,Discharged,Dr. Johnson
+48,Stella Clark,41,Female,Back Pain,02-12-2024,Under Treatment,Dr. Turner
+49,Ethan Davis,28,Male,Diabetes,06-12-2024,Under Treatment,Dr. Lee
+50,Sophia King,50,Female,Heart Disease,01-12-2024,Discharged,Dr. Carter
+51,Jake Moore,30,Male,Asthma,03-12-2024,Under Treatment,Dr. Gupta
+52,Grace Williams,41,Female,Cold,05-12-2024,Under Treatment,Dr. Brown
+53,James Taylor,29,Male,Stroke,02-12-2024,Death,Dr. Lee
+54,Zoe Scott,37,Female,Pneumonia,01-12-2024,Under Treatment,Dr. Johnson
+55,David White,25,Male,Heart Disease,04-12-2024,Under Treatment,Dr. Williams
+56,Anna Clark,34,Female,Hypertension,03-12-2024,Discharged,Dr. Black
+57,Julian Harris,40,Male,Flu,01-12-2024,Under Treatment,Dr. Turner
+58,Elena Davis,50,Female,Back Pain,02-12-2024,Under Treatment,Dr. Gupta
+59,Liam Adams,60,Male,COVID-19,06-12-2024,Discharged,Dr. Lee
+60,Abigail Taylor,33,Female,Stroke,08-12-2024,Death,Dr. Watson
+61,Samuel Green,29,Male,Diabetes,05-12-2024,Under Treatment,Dr. Brown
+62,Maya White,38,Female,Flu,09-12-2024,Discharged,Dr. Smith
+63,Oscar Lee,50,Male,Heart Disease,07-12-2024,Under Treatment,Dr. Carter
+64,Emily Green,32,Female,Hypertension,01-12-2024,Under Treatment,Dr. Lee
+65,Caleb Walker,35,Male,Stroke,10-12-2024,Under Treatment,Dr. Watson

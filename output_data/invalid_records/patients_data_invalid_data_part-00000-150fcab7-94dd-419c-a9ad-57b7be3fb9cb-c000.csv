@@ -1,0 +1,5 @@
+id,name,age,gender,diagnosis,admission_date,treatment_status,doctor
+12,,41,Female,Stroke,,Death,Dr. Williams
+13,George White,,Male,Malaria,05-12-2024,Under Treatment,Dr. Black
+17,John Martin,43,Male,Asthma,04-12-2024,Death,
+37,Benjamin Scott,30,Male,Stroke,06-12-2024,Death,
