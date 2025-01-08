@@ -55,11 +55,11 @@ def change_date_format(df) :
 
 def process_data() :
     # variables setup
-    gcs_source_bucket = "gs://dataproc_bucket_prac/patients_data/data/patients_data.csv"
-    bq_table = "synthetic-nova-438808-k6.patients_dataset.patientsData"
-    patients_invalid_bucket = "gs://dataproc_bucket_prac/patients_data/invalid_data/"
-    patients_valid_bucket = "gs://dataproc_bucket_prac/patients_data/valid_data/"
-    bq_temp_bucket = "gs://dataproc_bucket_prac/patients_data/bq_temp_bucket/"
+    gcs_source_bucket = "gs://bucket_path/patients_data.csv"
+    bq_table = "project_id.dataset_id.patientsData"
+    patients_invalid_bucket = "gs://bucket_path/invalid_data/"
+    patients_valid_bucket = "gs://bucket_path/valid_data/"
+    bq_temp_bucket = "gs://path_to_temp_folder/bq_temp_bucket/"
     
     try :
         # Initializing Spark session
